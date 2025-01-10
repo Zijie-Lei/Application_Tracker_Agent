@@ -1,0 +1,5 @@
+.env
+email_scrap/credentials.json
+email_scrap/token.json
+sheet_modify/credentials.json
+sheet_modify/token.json
