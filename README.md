@@ -2,7 +2,7 @@
 
 ## Initiative
 
-Built a job application tracking ReAct agent from the ground up. This project leverages reasoning and autonomous tool calling to simplify the job-seeking process. The agent enables seamless collection of emails, provides insights into application statuses, offers suggestions, summarizes resources, and maintains a tracking spreadsheet, all through simple natural language instructions.
+This project aims to simplify job application management by leveraging a Local or API-powered Large Language Model (LLM) to automate email analysis and track application progress. Simplified the job-seeking process by reasoning and autonomous tool calling. The agent enables seamless collection of emails, provides insights into application statuses, offers suggestions, summarizes resources, and maintains a tracking spreadsheet, all through simple natural language instructions.
 
 ## What It Does
 
