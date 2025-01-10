@@ -2,7 +2,7 @@
 
 ## Initiative
 
-This project aims to simplify job application management by leveraging a Local Large Language Model (LLM) to automate email analysis and track application progress.
+This project aims to simplify job application management by leveraging a Local or API-powered Large Language Model (LLM) to automate email analysis and track application progress.
 
 ## What It Does
 
